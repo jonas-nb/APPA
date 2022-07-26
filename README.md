@@ -1,4 +1,4 @@
-<h1 align="center">QRcode</h1>
+<h1 align="center">Base Apparel</h1>
 
 <p align='center'>
   Tela responsiva com uso de css grid e css flex, a mesma também apresenta um input com validação em javascript
