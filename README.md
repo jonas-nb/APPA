@@ -14,7 +14,7 @@
 </br>
 <h1>▶ Instalação e Execução</h1>
 <h2>📁 Acesso ao projeto</h2> 
-<code>git clone https://github.com/jonas-nb/QRcode</code>
+<code>git clone https://github.com/jonas-nb/APPA</code>
 <h2>🛠️ Abrir e rodar o projeto</h2> 
 <code>npm install</code>
 </br>
