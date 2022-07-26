@@ -1,7 +1,7 @@
 <h1 align="center">Base Apparel</h1>
 
 <p align='center'>
-  Tela responsiva com uso de css grid e css flex, a mesma também apresenta um input com validação em javascript
+  Tela responsiva construida com TailwindCSS demonstrando uso de css grid e css flex, Também apresenta um input com validação em javascript.
 </p>
  <img src="/src/assets/images/Desktop.png" alt="" />
 <br />
