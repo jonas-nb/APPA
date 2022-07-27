@@ -1,7 +1,8 @@
-<h1 align="center">Card NFT</h1>
+<h1 align="center">Base Apparel</h1>
 
 <p align='center'>
-  Card responsivo construido com react e tailwind, demonstrando alguns efeitos de transições ao interagir com o app.
+  landing page responsiva utilizando react com tailwind css.
+para a conttrução do layout foi usado grid css e flexbox css.
 </p>
  <img src="/src/assets/images/Desktop.png" alt="" />
 <br />
