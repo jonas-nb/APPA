@@ -1,7 +1,7 @@
-<h1 align="center">Base Apparel</h1>
+<h1 align="center">Card NFT</h1>
 
 <p align='center'>
-  Tela responsiva construida com TailwindCSS demonstrando uso de css grid e css flex, Também apresenta um input com validação em javascript.
+  Card responsivo construido com react e tailwind, demonstrando alguns efeitos de transições ao interagir com o app.
 </p>
  <img src="/src/assets/images/Desktop.png" alt="" />
 <br />
